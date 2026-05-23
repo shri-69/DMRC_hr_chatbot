@@ -45,7 +45,7 @@ st.write("Ask questions related to DMRC HR policies.")
 
 
 # GROQ API KEY
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "API_KEY"
 
 
 # LOAD EMBEDDING MODEL
